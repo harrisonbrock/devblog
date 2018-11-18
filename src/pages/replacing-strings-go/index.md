@@ -1,7 +1,7 @@
 ---
 title: Replacing Parts of a String
 date: 2018-11-11 20:00:00
-featuredImage: './featured.jpg'
+featuredImage: './gostring.jpg'
 ---
 
 Every developer needs to know how to work with strings in the language they are using. The Go libraries makes replacing parts of strings easy for a developer. I will show three solutions for replacing parts of a string in Go.

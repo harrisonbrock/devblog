@@ -110,5 +110,5 @@ func main() {
 This would output:
 
 ```commandline
-Mayy had a little Gropher Gopher
+Marry had a little Gropher Gopher
 ```

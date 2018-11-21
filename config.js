@@ -10,7 +10,7 @@ module.exports = {
     website: 'https://harrisonbrock.com',
     github: 'https://github.com/harrisonbrock',
     twitter: 'https://twitter.com/_HarrisonBrock',
-    linkedin: 'https://ca.linkedin.com/in/harrisonbrock',
+    linkedin: 'https://www.linkedin.com/in/harrisonbrock',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',

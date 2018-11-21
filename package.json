@@ -2,9 +2,9 @@
   "name": "devblog",
   "description": "GatsbyJS blog template for developers",
   "version": "2.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "author": "Harrison Brock <harrison@harrisonbrock.com>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/"
   },
   "dependencies": {
     "gatsby": "^2.0.31",
@@ -38,10 +38,18 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/ryanfitzgerald/devblog#readme",
+  "homepage": "https://blog.harrisonbrock.com",
   "keywords": [
     "gatsby",
     "dev",
+    "go",
+    "golang",
+    "string",
+    "strings",
+    "go blog",
+    "go blogs",
+    "golang blog",
+    "golang blogs",
     "blog",
     "dev blog"
   ],
@@ -49,7 +57,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanfitzgerald/devblog.git"
+    "url": "git+https://github.com/harrisonbrock/devblog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
